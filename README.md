@@ -11,4 +11,4 @@ Project Goal: Build an eCommerce store that generate revenue and grow audience t
 * 5 - Search Engine Optimization (SEO)
 * 6 - Social Media and Content Strategy
 
-*Advertising section didn't include in this case study post*
+*Advertising section wasn't included in this case study post*
