@@ -2,13 +2,13 @@
 
 **Joy Leggings** is an eCommerce clothing store that was built from scratch to help medical professionals express themselves through bright and colorful leggings.
 
-Project Goal: Build an eCommerce store that generate revenue and grow audience through digital marketing strategies; Duration: 3 weeks.
+Project Goal: Build an eCommerce store that generate revenue and grow audience through digital marketing strategies. Duration: 3 weeks.
 
-#### 1. Introduction
-#### 2. Customers Always Come First
-#### 3. Know Your Business
-#### 4. Marketing Objectives & KPIs
-#### 5. Search Engine Optimization (SEO)
-#### 6. Social Media and Content Strategy
+* 1 - Introduction
+* 2 - Customers Always Come First
+* 3 - Know Your Business
+* 4 - Marketing Objectives & KPIs
+* 5 - Search Engine Optimization (SEO)
+* 6 - Social Media and Content Strategy
 
 *Advertising section didn't include in this case study post*
