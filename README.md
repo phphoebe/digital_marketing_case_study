@@ -30,6 +30,7 @@ Project Duration: 3 weeks
 * GT Metrix
 * Hootsuite
 * Facebook Ads Manager
+
 ...
 
 #### [Joy Leggings Instagram](https://www.instagram.com/joyleggings/)
